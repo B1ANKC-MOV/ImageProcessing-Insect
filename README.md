@@ -40,3 +40,11 @@ image_processing.py为实现框选功能而调用的文件
 Bezier.py为生物曲线拟合和长度测量模块主文件  
 Manage为整合三个模块，实现系统功能的主文件  
 Picture为图片数据集  
+# 最后的效果
+![image](https://user-images.githubusercontent.com/66285048/191899909-848fef7f-8d87-4e07-9779-37557385672e.png)  
+![image](https://user-images.githubusercontent.com/66285048/191899954-134e5100-fa6b-4be4-9ea4-3ac2da43c6cc.png)  
+![image](https://user-images.githubusercontent.com/66285048/191899974-e77320cb-d885-49b2-9ced-d5bd7b82c3dc.png)  
+![image](https://user-images.githubusercontent.com/66285048/191899995-ea5263e0-6581-4a97-9365-ecebb72196e5.png)  
+
+
+
